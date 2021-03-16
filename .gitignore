@@ -1,0 +1,9 @@
+__pycache__/
+
+*.csv
+*.csv.cpt
+
+venv/
+*.egg-info
+
+
